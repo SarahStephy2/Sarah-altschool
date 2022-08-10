@@ -16,5 +16,5 @@ I'm a Product Manager and Aspiring Data Analyst currently works as a USSD Channe
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=omobolanleouyede&show_icons=true&include_all_commits=true&hide_border=true" alt="Sarah's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Sarah's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SayrahStephy2e&show_icons=true&include_all_commits=true&hide_border=true" alt="Sarah's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Sarah's GitHub stats" /> |
 | ------------- | ------------- |
